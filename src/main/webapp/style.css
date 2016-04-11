@@ -1,0 +1,44 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 100;
+    background-color: #1A1A1A;
+    color: #FFFFFF;
+
+}
+
+.header {
+    width: 86px;
+    height: 70px;
+    background: url('twitter-logo-small.png') no-repeat;
+    margin-bottom: 1rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.element {
+    font-size: 2rem;
+    background-color: #36BDB2;
+    min-width: 700px;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.positive {
+    background-color: #36BDB2;
+}
+
+.negative {
+    background-color: #FD5158;
+}
+
+.neutral {
+    background-color: #FFF9AE;
+}
