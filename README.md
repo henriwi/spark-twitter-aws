@@ -3,7 +3,6 @@
 To run this project locally the following steps needs to be executed:
 
 - Download spark from http://spark.apache.org/downloads.html
-
 - Go to https://apps.twitter.com
 - Select "Create new app". Use a random name and description, and "http://example.org" as url
 - Navigate to "Keys and Access Tokens" and copy the `Consumer Key (API Key)`, `Consumer Secret (API Secret)`, `Access Token` and `Access Token Secret`
