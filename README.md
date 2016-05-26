@@ -19,4 +19,4 @@ oauth.accessTokenSecret<your-secret>
 - Build the application with `mvn clean install`
 - Submit the application to spark by running: `<spark-location>/bin/spark-submit --class no.bekk.spark.SparkApplication <path-to-target-folder>/spark-twitter-1.0.jar`
 - The application runs on `http://localhost:8888`
-- The Spark monitoring dashboard should be available on `http://localhost:8080`
+- The Spark monitoring dashboard should be available on `http://localhost:4040`
